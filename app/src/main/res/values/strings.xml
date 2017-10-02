@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Baking App</string>
+
+    <!--<string name="pref_database_is_empty">databaseIsEmpty</string>-->
+    <!--<string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <!--<string name="appwidget_text">EXAMPLE</string>-->
+    <!--<string name="add_widget">Add widget</string>-->
+
+    <string name="pref_is_first_time_key">isFirstTime</string>
+    <string name="pref_current_recipe_position_key">currentRecipePosition</string>
+    <string name="pref_recipe_count_key">recipeCountKey</string>
+
+    <string name="error_no_connectivity">No Internet Connection.</string>
+    <string name="error_data_parsing">Data is corrupt. Try again.</string>
+    <string name="error_no_data">No recipes. Swipe down to refresh.</string>
+
+    <string name="error_no_connectivity_short">No Internet Connection.</string>
+    <string name="error_data_parsing_short">Data is corrupt.</string>
+    <string name="no_recipes_short">No recipes to show.</string>
+
+    <string name="label_ingredients">Ingredients</string>
+    <string name="label_steps">Recipe Steps</string>
+    <string name="label_step">Step</string>
+    <string name="label_servings">servings</string>
+    <string name="label_no_video">No video for this step.</string>
+</resources>
