@@ -4,7 +4,7 @@ This app gives the ability to the user to view different baking recipes. The dat
 
 ## How It Works
 
-When the app starts, the user is presented with a list of recipes. When the user clicks on a recipe a new screen appears. The new screen consists of a list with two different types of information. At the top of the list there is a sublist with the ingredients for the specific recipe and then follows a sublist with the steps for the recipe. The user is allowed to click on a step. When the user clicks on a step a new screen opens. In that screen there is a detailed decription of the step and a video that accompanies the descriprion.
+When the app starts, the user is presented with a list of recipes. When the user clicks on a recipe a new screen appears. The new screen consists of a list with two different types of information. At the top of the list there is a sublist with the ingredients for the specific recipe and then follows a sublist with the steps for the recipe. The user is allowed to click on a step. When the user clicks on a step a new screen opens. In that screen there is a detailed description of the step and a video that accompanies the description.
 
 <p align="center">
   <img src="https://drive.google.com/uc?id=1JHIzmtMpDPfycAA9MtNG1hM7TrPNdCMt" width="300" height="450"> &nbsp<img src="https://drive.google.com/uc?id=1iH8QZClAdxm4Cddx4L9t0LV212jN7IET" width="300" height="450">
